@@ -1,7 +1,7 @@
 # Simple program to add two numbers
 
 # Get input from the user
-num1 = float(input("Enter first number: "))
+num1 = float(input("Enter first number dev wla: "))
 num2 = float(input("Enter second number: "))
 
 # Add the numbers
